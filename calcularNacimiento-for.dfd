@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+13
+añoNacimiento
+1
+0
+9
+añoActual
+1
+0
+4
+edad
+1
+1
+4
+1
+31
+'ingresar su año de nacimiento'
+5
+1
+13
+añoNacimiento
+4
+1
+23
+'ingrese el año actual'
+5
+1
+9
+añoActual
+6
+1
+9
+añoLimite
+25
+añoActual - añoNacimiento
+8
+1
+1
+i
+1
+4
+edad
+1
+9
+añoLimite
+1
+1
+1
+6
+2
+4
+edad
+2
+i 
+13
+añoNacimiento
+17
+añoNacimiento +1 
+4
+1
+65
+'cumpliste',' ',edad,' ','años',' ','en el año',' ',añoNacimiento
+10
+1
